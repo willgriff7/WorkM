@@ -1,0 +1,9 @@
+Hi to whom reads this, 
+
+  To operate this the user has to download the package from GitHub. The next thing is to make sure the user is using the right version of Chrome, Chrome version 74. The latest chrome driver supports version 75, but I could not test with that, since I do not belive it is out yet. This package does come with chrome driver v.74. 
+  
+  In terms of verification I verfied that credentials pass by validating the new page. The terminal will display that the credentials were good. If not the terminal will display what errors occured. On the search test, if the profile's name, job title, company, or address doesn't contain the search criteria then the terminal will display which profiles fail. 
+  
+  This project could be downloaded into an IDE like eclipse and ran without adding anything. If the user wanted to use the terminal, the user will have to download the Jar that is included with this project and run it with the version of chromedriver that runs with the user's version of chrome. 
+  
+  Thank you 
